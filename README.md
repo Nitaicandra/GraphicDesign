@@ -2,10 +2,10 @@
 |Traditional|
 |-----|
 |![20221226_044817](https://user-images.githubusercontent.com/89361982/218046599-1532a50a-6437-47f0-9b30-b87253402db4.jpg|
-|----|
-/n
+
 
 |Digital|
+|---------|
 |![Bartaker (Medium) (12)](https://user-images.githubusercontent.com/89361982/218046912-5c41773d-a2f4-47aa-997c-f5476c8cd943.png)|
 |![Ta2i](https://user-images.githubusercontent.com/89361982/218046954-24847208-4bcc-49ab-a1ec-c2069010dca2.png)|
 |Animation|
