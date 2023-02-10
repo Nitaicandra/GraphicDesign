@@ -2,6 +2,7 @@
 |Traditional|
 |-----|
 |![20221226_044817](https://user-images.githubusercontent.com/89361982/218046599-1532a50a-6437-47f0-9b30-b87253402db4.jpg|
+|----|
 
 
 |Digital|
