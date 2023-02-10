@@ -7,7 +7,8 @@
 
 |Digital||
 |---------|-------|
-|![Bartaker (Medium) (12)](https://user-images.githubusercontent.com/89361982/218046912-5c41773d-a2f4-47aa-997c-f5476c8cd943.png)|![Ta2i](https://user-images.githubusercontent.com/89361982/218050168-566c778f-c453-4495-92bc-e121125f2207.png)
+|![Bartaker (Medium) (12)](https://user-images.githubusercontent.com/89361982/218046912-5c41773d-a2f4-47aa-997c-f5476c8cd943.png)|
+|![Ta2i (Small)](https://user-images.githubusercontent.com/89361982/218050733-81db9614-8afd-43a3-9b26-b4ab670537d8.png)|
 
 
 
