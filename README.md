@@ -2,7 +2,7 @@
 |Traditional|
 |-----|
 |![20221226_044817](https://user-images.githubusercontent.com/89361982/218046599-1532a50a-6437-47f0-9b30-b87253402db4.jpg|
-|![(20+)_Facebook_—_Firefox_Developer_Edition_85108_01_2023](https://user-images.githubusercontent.com/89361982/218046799-165b94d5-7f80-4403-b2a0-4116a1970101.png)|
+|![](https://user-images.githubusercontent.com/89361982/218046799-165b94d5-7f80-4403-b2a0-4116a1970101.png)|
 
 |Digital|
 |![Bartaker (Medium) (12)](https://user-images.githubusercontent.com/89361982/218046912-5c41773d-a2f4-47aa-997c-f5476c8cd943.png)|
